@@ -1,4 +1,5 @@
 Project Title: **Bank Customer Churn Prediction**
+
 **1. Problem Statement**
 A commercial bank is experiencing a 20% annual customer churn rate. This costs the bank significant revenue in acquisition and lost deposits. The bank wants to identify which customers are likely to leave so they can proactively offer retention bonuses or better services before the customer actually closes their account.
 
